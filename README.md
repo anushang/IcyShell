@@ -29,7 +29,7 @@ Implementation of a basic LINUX shell in C.
 
 
 1. There shall be following four files in the extracted directory
-	1. OurShell.c: C source code of our Shell program
+	1. IcyShell.c: C source code of our Shell program
 	1. run.sh: Shell script to compile and execute the source code
 	1. functiona_dependency.pdf: Functional dependency graph which explains various caller-callee relationship between the functions inside the program
 	1. README.txt: The one you are currently reading
